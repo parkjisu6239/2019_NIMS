@@ -267,7 +267,7 @@ plt.show() #긍정 워드클라우드
 
 - 부정어 워드 클라우드 결과
 
-![image-20210619174000174](C:\Users\jisu\Desktop\portfolio\2019_산업수학\README.assets\image-20210619174000174.png)
+![image-20210619174000174](README.assets/image-20210619174000174.png)
 
 
 
